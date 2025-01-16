@@ -1,0 +1,8 @@
+The following CSS code snippet demonstrates a common issue: a missing semicolon after a style declaration. This can lead to unexpected behavior or rendering errors, as the browser struggles to parse the CSS correctly.
+
+```css
+.my-element {
+  color: blue
+  font-size: 16px
+}
+```
