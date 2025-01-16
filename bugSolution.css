@@ -1,0 +1,10 @@
+Adding a semicolon after each style declaration solves the parsing error.
+
+```css
+.my-element {
+  color: blue;
+  font-size: 16px;
+}
+```
+
+This ensures the CSS is parsed correctly, and the styles are applied as intended.  Always remember to use semicolons to separate style declarations in CSS for consistent and predictable results.
