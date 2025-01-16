@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS error: the omission of semicolons.  The `bug.css` file contains the erroneous code, resulting in unpredictable styling behavior.  The `bugSolution.css` file provides the corrected code with the missing semicolons added, ensuring proper style application.
